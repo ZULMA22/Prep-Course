@@ -45,7 +45,9 @@ III. Cree una hoja de estilo externa y mueva todas las reglas de estilo anterior
   C. Agregue una etiqueta de enlace a su html que importe su nuevo archivo css.
 ```
 
-```
+``` 08-HTML/homework/homerwor.HTML
+        08-HTML/homework/styless.css
+
 IV. Suba su trabajo a su repositorio de github`
 ```
 
